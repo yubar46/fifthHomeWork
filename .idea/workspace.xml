@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4eb6cc3-ae90-4efa-8d60-37a5c53639f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/crc/ProductType.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/crc/ProductType.java" afterDir="false" />
+    <list default="true" id="c4eb6cc3-ae90-4efa-8d60-37a5c53639f4" name="Default Changelist" comment="add to Class ProductType:&#10;get and set methods">
+      <change beforePath="$PROJECT_DIR$/.idea/crc/domian/ProductType.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/crc/domian/ProductType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +45,18 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/java/mysql-connector-java-8.0.29.jar!/" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="domian" />
+    </key>
   </component>
   <component name="SbtLocalSettings">
     <option name="projectSyncType">
@@ -71,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653297039888</updated>
-      <workItem from="1653297045220" duration="2278000" />
+      <workItem from="1653297045220" duration="2841000" />
     </task>
     <task id="LOCAL-00001" summary="crate a domain package">
       <created>1653298217976</created>
@@ -122,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653299166561</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add to Class ProductType&#10;String name&#10;int id&#10;List&lt;Attribute&gt; attributes">
+      <created>1653299566428</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653299566428</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,13 +149,19 @@
     <MESSAGE value="create Class Feature" />
     <MESSAGE value="add to Class attribute :&#10;  int id,&#10; String title,&#10;int productTypeId" />
     <MESSAGE value=" add  to the Class Attribute&#10;  get and set methods and Constructors" />
-    <option name="LAST_COMMIT_MESSAGE" value=" add  to the Class Attribute&#10;  get and set methods and Constructors" />
+    <MESSAGE value="add to Class ProductType&#10;String name&#10;int id&#10;List&lt;Attribute&gt; attributes" />
+    <MESSAGE value="add to Class ProductType:&#10;get and set methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="add to Class ProductType:&#10;get and set methods" />
   </component>
   <component name="WindowStateProjectService">
     <state x="591" y="215" width="800" height="684" key="#Project_Structure" timestamp="1653298144401">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="591" y="215" width="800" height="684" key="#Project_Structure/72.27.1848.1053@72.27.1848.1053" timestamp="1653298144401" />
+    <state x="804" y="240" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1653299895510">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="804" y="240" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1653299895510" />
     <state x="728" y="334" width="524" height="451" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1653299309334">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
@@ -151,18 +170,18 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="703" y="223" width="575" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1653297130222" />
-    <state x="542" y="97" width="897" height="920" key="CommitChangelistDialog2" timestamp="1653299166436">
+    <state x="542" y="97" width="897" height="920" key="CommitChangelistDialog2" timestamp="1653299672194">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="542" y="97" width="897" height="920" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1653299166436" />
+    <state x="542" y="97" width="897" height="920" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1653299672194" />
     <state x="618" y="300" width="735" height="520" key="FileChooserDialogImpl" timestamp="1653297100881">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="618" y="300" width="735" height="520" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1653297100881" />
-    <state x="479" y="131" width="1024" height="852" key="SettingsEditor" timestamp="1653297107555">
+    <state x="479" y="131" width="1024" height="852" key="SettingsEditor" timestamp="1653299887625">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="479" y="131" width="1024" height="852" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1653297107555" />
+    <state x="479" y="131" width="1024" height="852" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1653299887625" />
     <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1653298574624">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
