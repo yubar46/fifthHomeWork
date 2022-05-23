@@ -100,10 +100,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="703" y="223" width="575" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1653297130222" />
-    <state x="542" y="97" width="897" height="920" key="CommitChangelistDialog2" timestamp="1653298217727">
+    <state x="542" y="97" width="897" height="920" key="CommitChangelistDialog2" timestamp="1653298279919">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="542" y="97" width="897" height="920" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1653298217727" />
+    <state x="542" y="97" width="897" height="920" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1653298279919" />
     <state x="618" y="300" width="735" height="520" key="FileChooserDialogImpl" timestamp="1653297100881">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
@@ -112,5 +112,9 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="479" y="131" width="1024" height="852" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1653297107555" />
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1653298455542">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1653298455542" />
   </component>
 </project>
