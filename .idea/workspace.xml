@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4eb6cc3-ae90-4efa-8d60-37a5c53639f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/crc/domian/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/crc/domian/Attribute.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653297039888</updated>
-      <workItem from="1653297045220" duration="1211000" />
+      <workItem from="1653297045220" duration="1453000" />
     </task>
     <task id="LOCAL-00001" summary="crate a domain package">
       <created>1653298217976</created>
@@ -81,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653298217976</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="create the Class Product">
+      <created>1653298280108</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653298280108</updated>
+    </task>
+    <task id="LOCAL-00003" summary="create Class ProductType">
+      <created>1653298469328</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653298469328</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,7 +102,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="crate a domain package" />
-    <option name="LAST_COMMIT_MESSAGE" value="crate a domain package" />
+    <MESSAGE value="create the Class Product" />
+    <MESSAGE value="create Class ProductType" />
+    <option name="LAST_COMMIT_MESSAGE" value="create Class ProductType" />
   </component>
   <component name="WindowStateProjectService">
     <state x="591" y="215" width="800" height="684" key="#Project_Structure" timestamp="1653298144401">
@@ -100,10 +115,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="703" y="223" width="575" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1653297130222" />
-    <state x="542" y="97" width="897" height="920" key="CommitChangelistDialog2" timestamp="1653298279919">
+    <state x="542" y="97" width="897" height="920" key="CommitChangelistDialog2" timestamp="1653298469219">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="542" y="97" width="897" height="920" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1653298279919" />
+    <state x="542" y="97" width="897" height="920" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1653298469219" />
     <state x="618" y="300" width="735" height="520" key="FileChooserDialogImpl" timestamp="1653297100881">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
