@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4eb6cc3-ae90-4efa-8d60-37a5c53639f4" name="Default Changelist" comment="" />
+    <list default="true" id="c4eb6cc3-ae90-4efa-8d60-37a5c53639f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/crc/domian/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -36,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
@@ -67,12 +72,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653297039888</updated>
-      <workItem from="1653297045220" duration="960000" />
+      <workItem from="1653297045220" duration="1211000" />
     </task>
+    <task id="LOCAL-00001" summary="crate a domain package">
+      <created>1653298217976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653298217976</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="crate a domain package" />
+    <option name="LAST_COMMIT_MESSAGE" value="crate a domain package" />
   </component>
   <component name="WindowStateProjectService">
     <state x="591" y="215" width="800" height="684" key="#Project_Structure" timestamp="1653298144401">
@@ -83,6 +100,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="703" y="223" width="575" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1653297130222" />
+    <state x="542" y="97" width="897" height="920" key="CommitChangelistDialog2" timestamp="1653298217727">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="542" y="97" width="897" height="920" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1653298217727" />
     <state x="618" y="300" width="735" height="520" key="FileChooserDialogImpl" timestamp="1653297100881">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
