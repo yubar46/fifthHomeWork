@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4eb6cc3-ae90-4efa-8d60-37a5c53639f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/crc/domian/Attribute.java" afterDir="false" />
+    <list default="true" id="c4eb6cc3-ae90-4efa-8d60-37a5c53639f4" name="Default Changelist" comment="create con">
+      <change beforePath="$PROJECT_DIR$/.idea/crc/ProductType.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/crc/ProductType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/crc/domian/Attribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/crc/domian/Attribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653297039888</updated>
-      <workItem from="1653297045220" duration="1453000" />
+      <workItem from="1653297045220" duration="1978000" />
     </task>
     <task id="LOCAL-00001" summary="crate a domain package">
       <created>1653298217976</created>
@@ -94,7 +96,28 @@
       <option name="project" value="LOCAL" />
       <updated>1653298469328</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create Class Attribute">
+      <created>1653298512230</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653298512230</updated>
+    </task>
+    <task id="LOCAL-00005" summary="create Class Feature">
+      <created>1653298565917</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653298565917</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add to Class attribute :&#10;  int id,&#10; String title,&#10;int productTypeId">
+      <created>1653298756761</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653298756761</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +127,10 @@
     <MESSAGE value="crate a domain package" />
     <MESSAGE value="create the Class Product" />
     <MESSAGE value="create Class ProductType" />
-    <option name="LAST_COMMIT_MESSAGE" value="create Class ProductType" />
+    <MESSAGE value="create Class Attribute" />
+    <MESSAGE value="create Class Feature" />
+    <MESSAGE value="add to Class attribute :&#10;  int id,&#10; String title,&#10;int productTypeId" />
+    <option name="LAST_COMMIT_MESSAGE" value="add to Class attribute :&#10;  int id,&#10; String title,&#10;int productTypeId" />
   </component>
   <component name="WindowStateProjectService">
     <state x="591" y="215" width="800" height="684" key="#Project_Structure" timestamp="1653298144401">
@@ -115,10 +141,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="703" y="223" width="575" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1653297130222" />
-    <state x="542" y="97" width="897" height="920" key="CommitChangelistDialog2" timestamp="1653298565792">
+    <state x="542" y="97" width="897" height="920" key="CommitChangelistDialog2" timestamp="1653299060309">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="542" y="97" width="897" height="920" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1653298565792" />
+    <state x="542" y="97" width="897" height="920" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1653299060309" />
     <state x="618" y="300" width="735" height="520" key="FileChooserDialogImpl" timestamp="1653297100881">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
